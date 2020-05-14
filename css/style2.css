@@ -1,12 +1,11 @@
 .container
 {
-	text-align: center;
-	font-size: 3em;
-	width: 36em;
-	height: 12em;
-	position: absolute;
-    top:0;
-    bottom: 0;
+    text-align: center;
+    font-size: 6em;
+    
+    position: absolute;
+    top:20%;
+    bottom:0%;
     left: 0;
     right: 0;
 
